@@ -1,0 +1,23 @@
+{
+  "name": "webscrapper",
+  "version": "1.0.0",
+  "description": "This is a basic web scrapper implemented using puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "puppeteer",
+    "webscraping",
+    "automation"
+  ],
+  "author": "Anmol Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^20.8.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
